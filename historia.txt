@@ -6,4 +6,4 @@ Nueva línea.
 
 Nuevo párrafo.
 
-Otro nuevo parrafo al archivo.
+Otro nuevo párrafo al archivo.
