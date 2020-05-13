@@ -1,3 +1,5 @@
 Esta es una historia de prueba.
 
-Prueba 1
+Prueba 1.2
+
+Nueva línea.
